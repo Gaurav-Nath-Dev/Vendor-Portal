@@ -33,7 +33,6 @@
   display: grid;
   grid-template-columns: 15rem auto;
   height: 100svh;
-  // overflow-y: hidden;
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
   }
@@ -71,7 +70,6 @@
 
 .category-side-menu {
   padding: 1rem;
-  // border: 1px solid black;
 
   @media (max-width: 768px) {
     display: none;
